@@ -1,4 +1,4 @@
-package com.jobs.indicator
+package com.nguyen.indicatorview
 
 import android.animation.AnimatorSet
 import android.animation.ValueAnimator

@@ -1,4 +1,4 @@
-package com.jobs.indicator
+package com.nguyen.indicatorview
 
 import android.graphics.Canvas
 import android.graphics.Paint
