@@ -2,9 +2,9 @@ import androidx.annotation.NonNull
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentStatePagerAdapter
-import com.jobs.valueanimation.FragmentOne
-import com.jobs.valueanimation.FragmentThree
-import com.jobs.valueanimation.FragmentTwo
+import com.nguyen.pageindicatorview.FragmentOne
+import com.nguyen.pageindicatorview.FragmentThree
+import com.nguyen.pageindicatorview.FragmentTwo
 
 class PagerAdapter internal constructor(@NonNull fragmentManager: FragmentManager) : FragmentStatePagerAdapter(fragmentManager) {
 

@@ -1,4 +1,4 @@
-package com.jobs.valueanimation
+package com.nguyen.pageindicatorview
 
 import android.os.Bundle
 import android.view.LayoutInflater
